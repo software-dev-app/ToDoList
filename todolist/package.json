@@ -13,6 +13,16 @@
         "axios": "^0.25",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "vue-loader": "^16.8.3"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.3.0",
+        "@fortawesome/free-solid-svg-icons": "^6.0.0",
+        "@fortawesome/vue-fontawesome": "^3.0.0-5",
+        "vue": "^3.2.31"
+    },
+    "jshintConfig": {
+        "esversion": 6
     }
 }
