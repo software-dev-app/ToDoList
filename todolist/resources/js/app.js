@@ -11,7 +11,6 @@ import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
 createApp({
     components: { App }
-
 })
 .component("font-awesome-icon", FontAwesomeIcon)
 .mount('#app');
